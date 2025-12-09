@@ -13,7 +13,7 @@ class CriarAgendamentos(Base):
     """
 
     def max_date(self):
-        dt.date.today() + dt.timedelta(days=365)
+        return dt.date.today() + dt.timedelta(days=365)
 
     evento = models.CharField(max_length=100, blank=True, null=True)
     data_inicial = models.DateField(
