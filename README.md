@@ -1,6 +1,6 @@
 *Esta ferramenta digital faz parte do catálogo de ferramentas do **Banco Interamericano de Desenvolvimento**. Você pode saber mais sobre a iniciativa do BID em [code.iadb.org](https://code.iadb.org)*
 
-<h1 align="center"> AGTEC Core</h1>
+<h1 align="center"> Agtec Core</h1>
 <p align="center"><img src="./images/agtec_core.png"></p>
 
 ## Tabela de conteúdos:
@@ -16,6 +16,20 @@
 - [Como contribuir](#como-contribuir)
 - [Estrutura do projeto gerado](#estrutura-do-projeto-gerado)
 - [Autor(es)](#autores)
+  - [Coordenador](#coordenador)
+    - [Guilherme de Carvalho Carneiro](#guilherme-de-carvalho-carneiro)
+  - [Desenvolvedores](#desenvolvedores)
+    - [Thiago Schuch](#thiago-schuch)
+    - [Claysllan Ferreira](#claysllan-ferreira)
+    - [Brayan Mota](#brayan-mota)
+    - [Lucas Siqueira](#lucas-siqueira)
+    - [Robson Ronzani](#robson-ronzani)
+    - [Emanoel Mendes](#emanoel-mendes)
+    - [Thales Barbosa](#thales-barbosa)
+    - [Márcio Henrique Rodrigues de Lima](#márcio-henrique-rodrigues-de-lima)
+    - [Clazzeani Almeida](#clazzeani-almeida)
+    - [André Praça de Almeida Pinheiro](#andré-praça-de-almeida-pinheiro)
+    - [Marco Antônio Martins Porto Netto](#marco-antônio-martins-porto-netto)
 - [Licença](#licença)
 
 ## Informações
@@ -47,7 +61,7 @@ Acesse a documentação contendo todos os detalhes do projeto em:
 
 - Clone este projeto
 ```
-git clone https://github.com/AgtecPalmas/AgtecCore
+git clone https://github.com/agtec/
 ```
 
 - Crie um diretório para o seu projeto fora do Clone
@@ -263,7 +277,7 @@ end
 
 The MIT License (MIT)
 
-Copyright © 2023 Agência de Tecnologia da Informação da Prefeitura de Palmas estado do Tocantins
+Copyright © 2025 Agtec
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -275,4 +289,3 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
