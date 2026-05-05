@@ -1,5 +1,5 @@
 [project]
-name = "agteccore"
+name = "{{cookiecutter.project_slug.lower()}}"
 version = "0.1.0"
 description = "Projeto base para sistemas com base Views"
 readme = "README.md"

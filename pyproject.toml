@@ -13,7 +13,7 @@ dependencies = [
 user_vars = true
 
 [tool.pytest.ini_options]
-addopts = "--cov={{cookiecutter.project_slug.lower()}} --cov-report=html --cov-fail-under=90 --doctest-modules --doctest-glob='*.rst' --ignore=core --ignore=docs --ignore=venv --ignore=.venv --ignore=.env"
+addopts = "--cov=agteccore --cov-report=html --cov-fail-under=90 --doctest-modules --doctest-glob='*.rst' --ignore=core --ignore=docs --ignore=venv --ignore=.venv --ignore=.env"
 
 [tool.ruff]
 line-length = 120
@@ -28,7 +28,7 @@ extend-exclude = [
 
 [tool.ruff.lint]
 select = ["E", "F", "I"]
-ignore = ["E203", "W503"]
+ignore = ["E203"]
 
 [tool.ruff.format]
 quote-style = "double"
